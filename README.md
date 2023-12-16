@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Biswatosh Rout
-- 👀 I’m interested in GameDevelopemnt
-- 🌱 I’m currently learning Unity and C#
+- 👀 I’m Working as an Backend Developer working basically on Java  
+- 🌱 I’m currently learning Frontend Development and App Development using Fltter and Dart
 - 📫 How to reach me routlikun@gmail.com
 
 <!---
